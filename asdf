@@ -1,0 +1,40 @@
+1}  terminal  ochiladi.   ( CTRL+ `)
+
+ 2}  git init (git  o'rnatildi  git degan papka hosil bo'ladi)
+
+ 3}  git config user.name  'isim'
+
+ 4}  git config user.email  'abdujabbordostmuhammedov666@gmail.com'
+
+ 5}  git status  (saytda bovotgan o'zgarishlarni ko'rib turamiz)  no  commits
+
+ 6}  git add . 
+
+ 7}  git status  (boyagi qizillar yashil boldi)
+
+ 8}  git commit -m isim
+
+     endi ubu narsa  yozib ko'rsam  kuzatadi  bizani.
+
+ 9}  ssh-keygen   (y/n) yes
+
+
+     vskoddan chiwib kalitni olib vskodga qo'yamiz.  hammasini belgilab kopirovka qilib olamiz.
+
+     new-repozitory    nomi  "my  work "
+
+     settings -> Deploy keys -> Add deploy key -> Key degan joyga kalitni qo'yamiz.  ptichka qoyib  Add key qilamiz.
+      
+     maywork -> adressni  ko'chirib olamiz   
+
+ 10} git  remote add my-work githap  ssilkasini qo'yamiz
+
+ 11} git  push my-work master 
+
+     F5.   mana joylandi.
+
+    Settings ->  GitHup pages da  Check it out here master=. save.
+
+     
+
+git
